@@ -6,7 +6,7 @@
   "homepage": "https://github.com/pofallon/node-nexmo",
   "dependencies": {
     "request": "2.x.x",
-    "connect": "2.x.x"
+    "connect": "2.13.1"
   },
   "devDependencies": {
     "nodeunit": "0.6.x"
